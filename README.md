@@ -19,6 +19,9 @@ El proyecto fue codificado en C++ y cuenta con las siguientes funcionalidades:
   - Calcular número mayor de la lista 
   - Mostrar elementos repetidos de la lista 
   - Eliminar nodos duplicados 
+  - *Invertir lista
+  - *Ordenar lista creciente
+  - *Ordenar lista decreciente
 
 ### Video de sustención :
 [Sustentación de la práctica](http://www.youtube.com)

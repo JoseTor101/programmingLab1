@@ -26,4 +26,4 @@ El proyecto fue codificado en C++ y cuenta con las siguientes funcionalidades:
 ### Video de sustención :
 [Sustentación de la práctica](https://youtu.be/cn3AMC-Ezxs)
 
-#### Versión del compilador: 
+#### Versión del compilador: g++ (GCC) 10.3.0

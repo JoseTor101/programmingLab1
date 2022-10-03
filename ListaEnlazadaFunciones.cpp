@@ -1,5 +1,5 @@
 # include <iostream>
-# include "ListaEnlazadaFunciones.h"
+# include "listaEnlazadaFunciones.h"
 using namespace std;
 
 void ListaEnlazadaFunciones::agregarElemento(Node *&head, int n){

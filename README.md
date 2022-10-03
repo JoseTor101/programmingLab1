@@ -24,6 +24,6 @@ El proyecto fue codificado en C++ y cuenta con las siguientes funcionalidades:
   - *Ordenar lista decreciente
 
 ### Video de sustención :
-[Sustentación de la práctica]https://youtu.be/cn3AMC-Ezxs)
+[Sustentación de la práctica](https://youtu.be/cn3AMC-Ezxs)
 
 #### Versión del compilador: 
